@@ -21,9 +21,9 @@ subdisciplina del campo de la Informática que busca la creación de máquinas q
  
  ## Paradigmas de aprendizaje
  
- * Aprendizaje supervisado
- * Aprendizaje no supervisado
- * Aprendizaje reforzado
+ * Aprendizaje supervisado:es un subconjunto del machine learning que consiste en la deducción de información a partir de datos de entrenamiento.
+ * Aprendizaje no supervisado:es una técnica de machine learning en la que los modelos no aprenden a partir de los llamados datos de entrenamiento.
+ * Aprendizaje reforzado:es un área del aprendizaje automático inspirada en la psicología conductista, cuya ocupación es determinar qué acciones debe escoger un agente de software en un entorno dado con el fin de maximizar alguna noción de recompensa o premio acumulado.
  
  ## Técnicas de Aprendizaje Autoḿatico
  
